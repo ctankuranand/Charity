@@ -1,0 +1,15 @@
+.v1{
+  border-right: 1px solid black;
+  height: 550px;
+  position: absolute;
+  left: 55px
+  }
+.v2{
+  border-right: 1px solid black;
+  height: 550px;
+  position: absolute;
+  left: -15px
+  }
+
+  button:focus {outline:0;};
+  
